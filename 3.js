@@ -1,3 +1,3 @@
-function getPerson(name, surname){
-		return name + ' ' + surname;
-}       }
+function sun(a, b){
+	return a + b;
+}       
